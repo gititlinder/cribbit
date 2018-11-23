@@ -15,7 +15,7 @@ def main():
 
 def print_header():
     print('----------------------------')
-    print('          Cribbit!')
+    print('          Cribbit!!')
     print('----------------------------')
     print()
 
